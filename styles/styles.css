@@ -40,9 +40,11 @@ body{
 }
 .texto {
     color: #ac38bb;
+    font-family: 'Quicksand', sans-serif;
 }
 li{
     color: #ab14be;
+    font-family: 'Quicksand', sans-serif;
 }
 .tabla {
     background-color: #bbc2dd;
