@@ -1,0 +1,61 @@
+/*
+Paleta de color:
+.color1 {color: #b6b88a;}
+.color2 {color: #d2ceb0;}
+.color3 {color: #3f588b;}
+.color4 {color: #9fa7cb;}
+.color5 {color: #edeaf6;}
+
+Fuentes:
+
+font-family: 'Raleway', sans-serif;
+font-family: 'Quicksand', sans-serif;
+*/
+
+a {
+    text-decoration: none;
+}
+body{
+    background-color: #edeaf6;
+}
+.bg-color {
+    background-color: #b8bedb;
+}
+.text-center {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.bienvenida {
+    color: #a0804e;
+    font-family: 'Raleway', sans-serif;
+}
+.presentado {
+    color: #d2ceb0;
+    font-family: 'Quicksand', sans-serif;
+}
+.parrafo {
+    color: #8b3197;
+    font-family: 'Quicksand', sans-serif;
+}
+.texto {
+    color: #ac38bb;
+}
+li{
+    color: #ab14be;
+}
+.tabla {
+    background-color: #bbc2dd;
+}
+.tres {
+  background-color: #c5c8d8;
+}
+.tres:hover {
+    background-color: #a3acd3;
+}
+li:hover {
+    color: #9711e4;
+}
+.texto:hover {
+    color: #cb11e4;
+}
